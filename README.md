@@ -1,1 +1,1 @@
-# Upcounter
+# Upcounter using verilog
